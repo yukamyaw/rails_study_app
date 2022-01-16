@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## MySQL
+homebrewでMySQL8.0.27のインストールをした。
