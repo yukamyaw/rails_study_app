@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.title {
+    font-size: 25px;
+    color: #d4ba9f;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    position: absolute;
+    top: 1px;
+    z-index: 10;
+}
+
+h1 {
+    font-size: 20px;
+    color: #a7b19b;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    position: absolute;
+    top: 77px;
+    padding-left: 15px;
+}
+
+body {
+    background-image: url(imgages/cat.whitePG.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.anime1 {
+    position: absolute;
+    top: 130px;
+    padding-left: 15px;
+    width: 60px;
+    height: 60px;
+}
+
+.anime1 p {
+    color: darkslategray;
+}

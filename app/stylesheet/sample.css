@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#p {
+    font-size: 120px;
+    color: #ed1c24;
+}
+
+h1 {
+    font-size: 20px;
+    color: rgb(199, 62, 169);
+}
+
+.food {
+    color: darkgreen;
+}
